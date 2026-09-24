@@ -1,0 +1,15 @@
+# Python dependencies for the post-COVID breathlessness connectivity analysis.
+#
+# The versions below are those of the environment in which the reported results
+# were reproduced. The manuscript reports Python 3.11.6; please confirm these
+# library versions against your archived analysis environment before submission,
+# as the project was run across more than one environment.
+#
+# Reference interpreter: Python 3.11.6
+
+numpy==2.1.2
+scipy==1.14.1
+pandas==2.2.3
+statsmodels==0.14.4
+matplotlib==3.10.0
+seaborn==0.13.2
