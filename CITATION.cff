@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+title: "Analysis code for a 7T resting-state fMRI study of post-COVID breathlessness"
+version: 1.0.0
+date-released: 2026-09-23
+license: MIT
+repository-code: "https://github.com/qiuiqulinlin/dyspnea_COVID_7T_MRI"
+authors:
+  - given-names: Lin
+    family-names: Qiu
+  - given-names: Betty
+    family-names: Raman
+  - given-names: Mark
+    family-names: Cassar
+  - given-names: Emily
+    family-names: Fraser
+  - given-names: "Lauren Z."
+    family-names: Atkinson
+  - given-names: Stuart
+    family-names: Clare
+  - given-names: "William T."
+    family-names: Clarke
+  - given-names: Stefan
+    family-names: Neubauer
+  - given-names: "Helen E."
+    family-names: Davies
+  - given-names: "Neil A."
+    family-names: Harrison
+  - given-names: "C. John"
+    family-names: Evans
+  - given-names: Martyn
+    family-names: Ezra
+  - given-names: "Kyle T. S."
+    family-names: Pattinson
